@@ -9,7 +9,7 @@ document-font-name="Sans 12"
 toolkit-accessibility=false
 
 [org.gnome.desktop.wm.preferences]
-theme='Mint-L-Dark-Red'
+theme='Orchis-Dark'
 button-layout=':minimize,maximize,close'
 titlebar-font="Ubuntu Medium 10"
 titlebar-uses-system-font=false
