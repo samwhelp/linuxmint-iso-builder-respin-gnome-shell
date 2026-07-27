@@ -62,8 +62,6 @@ gnome-text-editor
 ## ## Package / Desktop Environment
 ##
 
-accountsservice
-
 asunder
 atril
 
