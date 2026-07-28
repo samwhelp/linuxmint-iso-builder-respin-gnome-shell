@@ -1,1 +1,1 @@
-MintGnomeShell
+LinkuMint-Gnome-Shell
